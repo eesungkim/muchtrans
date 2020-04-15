@@ -6,7 +6,7 @@ import time
 import os
 
 HOST = '0.0.0.0'
-PORT = 4000
+PORT = 6802
 
 def run(server_class=HTTPServer, handler_class=SimpleHTTPRequestHandler):
     print('Now launching dev webserver on {}:{}...'.format(HOST, PORT))

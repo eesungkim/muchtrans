@@ -1,11 +1,11 @@
 title: SwishNet
-author: Naomi Ceder
-source: https://pycon.blogspot.com/2016/03/why-not-join-sprints-this-year-at-pycon.html 
+author: Eesung Kim
+source: https://www.google.com
 
 #  SwishNet
 
 Posted by [ Naomi Ceder ](https://www.blogger.com/profile/09984149935314850807 "author profile")
-[ March 10, 2019  ](https://pycon.blogspot.com/2016/03/why-not-join-sprints-this-year-at-pycon.html "permanent link")
+[ March 10, 2019  ](https://www.google.com "permanent link")
 
 ## C.SwishNet A 1D Convolutional Neural Network
 
